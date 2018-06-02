@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\sharp\Nasze_Puzzle\Puzzle_\Laboratory1\bin\Release\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Nasze_Puzzle\Puzzle_\Laboratory1\bin\Release\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Nasze_Puzzle\Puzzle_\Laboratory1\obj\Release\Laboratory1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sharp\Nasze_Puzzle\Puzzle_\Laboratory1\obj\Release\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Nasze_Puzzle\Puzzle_\Laboratory1\obj\Release\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione\Puzzle\Laboratory1\obj\Release\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione\Puzzle\Laboratory1\obj\Release\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione\Puzzle\Laboratory1\obj\Release\Laboratory1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione\Puzzle\Laboratory1\bin\Release\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione\Puzzle\Laboratory1\bin\Release\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione (lepsze)\Puzzle_porownanie_metod\Laboratory1\obj\Release\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione (lepsze)\Puzzle_porownanie_metod\Laboratory1\obj\Release\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione (lepsze)\Puzzle_porownanie_metod\Laboratory1\bin\Release\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione (lepsze)\Puzzle_porownanie_metod\Laboratory1\bin\Release\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Puzzle_zmienione (lepsze)\Puzzle_porownanie_metod\Laboratory1\obj\Release\Laboratory1.csprojResolveAssemblyReference.cache
